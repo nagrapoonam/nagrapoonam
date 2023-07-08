@@ -4,6 +4,9 @@
 📍  Based in Toronto, Canada. <br>🎓Computer science Engineer. Pursuing Software Engineering at Masterschool.<br>💻 I specialize in  frontend development.
 
 <div id="header" align="center">
+  <img src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif" width="100"/>
+</div>
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="100"/>
 </div>
 <div id="header" align="center">
