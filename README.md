@@ -4,24 +4,26 @@
 📍  Based in Toronto, Canada. <br>🎓Computer science Engineer. Pursuing Software Engineering at Masterschool.<br>💻 I specialize in  frontend development.
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif" width="1000"/>
 </div>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="1000"/>
 </div>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="1000"/>
 </div>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" width="1000"/>
 </div>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif" width="1000"/>
 </div>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="1000"/>
 </div>
-<iframe src="https://giphy.com/embed/xT8qBsOjMOcdeGJIU8" width="480" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/monstercat-edm-electronic-music-xT8qBsOjMOcdeGJIU8">via GIPHY</a></p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/xT8qBsOjMOcdeGJIU8/giphy.gif" width="1000"/>
+</div>
 
 
 ## 🌐 Socials:
