@@ -3,21 +3,22 @@
 # 💫 About Me:
 📍  Based in Toronto, Canada. <br>🎓Computer science Engineer. Pursuing Software Engineering at Masterschool.<br>💻 I specialize in  frontend development.
 
-<div id="header" align="center">
+<div id="header" align="left">
   <img src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif" width="500"/>
-</div><div id="header" align="center">
+</div>
+<div id="header" align="right">
   <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="500"/>
 </div>
-<div id="header" align="center">
+<div id="header" align="left">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="500"/>
 </div>
-<div id="header" align="center">
+<div id="header" align="right">
   <img src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" width="500"/>
 </div>
-<div id="header" align="center">
+<div id="header" align="left">
   <img src="https://media.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif" width="500"/>
 </div>
-<div id="header" align="center">
+<div id="header" align="right">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500"/>
 </div>
 <div id="header" align="center">
