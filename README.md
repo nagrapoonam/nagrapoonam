@@ -4,17 +4,9 @@
 📍  Based in Toronto, Canada. <br>🎓Computer science Engineer. Pursuing Software Engineering at Masterschool.<br>💻 I specialize in  frontend development.
 
 <div id="header" align="left">
-  <img src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif" width="500"/> <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif" width="500"/> <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500" height="500"/>
 </div>
-<div id="header" align="left">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="500"/> <img src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" width="500"/>
-</div>
-<div id="header" align="left">
-  <img src="https://media.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif" width="500"/> <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500"/>
-</div>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/xT8qBsOjMOcdeGJIU8/giphy.gif" width="500"/>
-</div>
+
 
 
 ## 🌐 Socials:
