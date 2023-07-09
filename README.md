@@ -32,6 +32,10 @@
 </p>
 </div>
 
+<div align="center">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagrapoonam&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="ixahmedxi" /></p>
+</div>
+
 
 
 
