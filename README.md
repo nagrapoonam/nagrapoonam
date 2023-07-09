@@ -23,7 +23,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nagrapoonam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nagrapoonam&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="ixahmedxi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nagrapoonam&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="nagrapoonam" /></p>
 </div>
 
 <div align="center">
@@ -32,8 +32,9 @@
 </p>
 </div>
 
+
 <div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagrapoonam&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="ixahmedxi" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?user=nagrapoonam&theme=github-dark-blue&hide_border=true" alt="Github streak" /></p>
 </div>
 
 
