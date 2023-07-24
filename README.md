@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-📍  Based in Toronto, Canada. <br>🎓Computer science Engineer. Pursuing Software Engineering at Masterschool.<br>💻 I specialize in  frontend development.
+📍  Based in Toronto, Canada. <br>🎓Computer science Engineer. Pursuing Software Engineering at Masterschool.<br>💻 I specialize in Full Stack Development.
 
 <div id="header" align="left">
   <img src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif" width="400"/><img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400" height="400" />
